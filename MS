@@ -1,0 +1,7 @@
+debug.setconstant(require(lplr.PlayerScripts.TS.controllers.global.hotbar.ui.healthbar["hotbar-healthbar"]).HotbarHealthbar.render, 16,  16711680)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7ARISTOISCLIENT7/ARISTOISCLIENTV1.1/main/Modules/Watermark"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7ARISTOISCLIENT7/ARISTOISCLIENTV1.1/main/Modules/KeyStroke"))()
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------Vxpe
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
